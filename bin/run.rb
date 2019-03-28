@@ -5,4 +5,5 @@ Pry
 AwesomePrint
 
 ```ruby
-require
+require_relative '../config/environment'
+```
