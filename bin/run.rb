@@ -4,6 +4,5 @@ Octokit
 Pry
 AwesomePrint
 
-```ruby
+ruby
 require_relative '../config/environment'
-```
